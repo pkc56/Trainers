@@ -1,0 +1,500 @@
+.btn-primary{
+	background:#bd8827;
+	border-color:#676769;
+}
+
+
+
+.jumbotron{
+	background: rgb(0, 0, 0) url('../img/bg.jpg') -400px -50px;
+	background-repeat: none;
+	color:rgb(255, 255, 255);
+	text-align: center;
+	border-bottom: 5px #ffffff solid;
+}
+
+.jumbotron-p1{
+	background: rgb(0, 0, 0) url('../img/bg1.jpg') -400px -50px;
+	background-repeat: none;
+	color:rgb(240, 240, 240);
+	text-align: center;
+	border-bottom: 5px #ffffff solid;
+}
+
+.jumbotron-main{
+	padding: 0 60px 40px 60px;
+}
+
+.jumbotron-main h1{
+	margin-top:60px;
+	margin-bottom:30px;
+}
+
+.jumbotron p.lead{
+	font-size:25px;
+	margin-bottom:60px;
+}
+
+.jumbotron-sub{
+}
+
+.navbar{
+	margin:0;
+	color:#fff;
+	font-size: 20px;
+}
+
+.navbar-brand {
+	font-size: 25px;
+}
+
+.navbar a{
+	color:#fff;
+	margin-bottom:3px;
+}
+
+.navbar a:hover{
+	background:none !important;
+	border-bottom:#fff 3px solid;
+	margin-bottom:0;
+}
+
+.box{
+	text-align: center;
+}
+.track-progress {
+	padding: 10px 0px 0px 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.nutrition {
+	padding: 10px 0px 0px 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.training-programs {
+	padding: 10px 0px 0px 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.section-a{
+	background: rgb(240, 239, 239);
+	text-align: center;
+	padding:20px;
+	margin-bottom:30px;
+	padding: 5rem;
+	
+}
+
+.section-a h1{
+	font-size:50px;
+	color: black;
+}
+
+
+.img-full{
+	width:100%;
+	border-radius: 1%;
+}
+
+.main-footer{
+	background:#777777;
+	padding:50px;
+	text-align: center;
+	color: white;
+}
+
+a {
+	color: rgb(230, 158, 25);
+	
+}
+
+.well {
+	margin: 15px;
+}
+
+.well-a {
+	background: rgb(212, 211, 211);
+	border: #dd9715 1px solid;
+	box-shadow: black 1px 2px 11px;
+	min-height: 400px;
+	font-size: 16px;
+	padding: 5px;
+	text-align: center;
+	padding: 30px;
+	line-height: 25px;
+	
+	
+}
+
+
+
+.container-b {
+	margin: 15px 20px 15px 20px;
+}
+
+.section-a{
+	color:#000000;
+	text-align: center;
+	margin: 15px 20px 15px 20px;
+	
+}
+
+.section-a img {
+	border-radius: 50%;
+	margin-top: 10px;
+}
+.section-b img {
+	border-radius: 50%;
+	margin-top: 10px;
+}
+.section-b h3 {
+	font-weight: 600;
+}
+
+.card {
+	background: rgb(245, 245, 245);
+	border-radius: 10px;
+	margin-bottom: 15px;
+	min-height: 720px;
+	border: #bd8827 solid 1px;
+	margin-top: 15px;
+	padding: 3rem;
+	font-size: 16px;
+}
+
+.card-body {
+	color: black;
+}
+
+.icons {
+font-size: 25px;
+text-align: center;
+bottom: 10px;
+
+
+}
+
+.container-b img {
+	max-height: 120px;
+	max-width: 80px;
+}
+
+
+.button-article1 {
+	margin-top: 50px;
+}
+
+.button-article2 {
+	margin-top: 30px;
+	
+}
+
+.button-article3 {
+	margin-top: 67px;
+}
+
+.container-trainers img{
+width: 177px;
+height: 177px;
+border: 2px solid rgb(206, 124, 17);
+}
+
+.trainer-info {
+	color: #000000;
+	margin: 10px;
+	min-width: 200px;
+	background-size: cover;
+	background-position: center center;
+	cursor: pointer;
+}
+
+.container-trainers {
+	padding-bottom: 4%;
+	padding-top: 1%;
+	text-align: center;
+}
+
+.container-b h1 {
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+
+.container-contact h1  {
+	text-align: center;
+	font-weight: 10px;
+	color:#bd8827;
+	
+}
+
+.container-contact p {
+	text-align: center;
+	margin: 5%;
+	font-size: 18px;
+}
+
+.container-contact  img  {
+	margin-top: 40px ;
+	margin-left: 30%;
+	margin-right: 30%;
+
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.contact-body {
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 80vh;
+	margin: 0;
+}
+
+.header-contact {
+	border-bottom: 1px solid #f0f0f0;
+	background-color: #f7f7f7;
+	padding: 20px 40px;
+}
+
+.header-contact h2 {
+	margin: 0;
+}
+
+.contact-page  {
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	overflow: hidden;
+	width: 400px;
+	max-width: 100%;;
+}
+
+.form{
+	padding: 30px 40px;	
+}
+.form-control-contact {
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+.form-control label {
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.form-control-contact input {
+	border: 2px solid #f0f0f0;
+	border-radius: 4px;
+	display: block;
+	font-family: inherit;
+	font-size: 14px;
+	padding: 10px;
+	width: 100%;
+}
+
+.form-control-contact input:focus {
+	outline: 0;
+	border-color: #777;
+}
+
+.form-control-contact.success input {
+	border-color: #2ecc71;
+}
+
+.form-control-contact.error input {
+	border-color: #e74c3c;
+}
+.form-control-contact i {
+	visibility: hidden;
+	position: absolute;
+	top: 40px;
+	right: 10px;
+}
+
+.form-control-contact.success i.fa-check-circle {
+	color: #2ecc71;
+	visibility: visible;
+}
+
+.form-control-contact.error i.fa-exclamation-circle {
+	color: #e74c3c;
+	visibility: visible;
+}
+
+.form-control-contact small {
+	color: #e74c3c;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	visibility: hidden;
+}
+
+.form-control-contact.error small {
+	visibility: visible;
+}
+
+.form button {
+	background-color: #bd8827;
+	border: 2px solid #bd8827;
+	border-radius: 4px;
+	color: #fff;
+	display: block;
+	font-family: inherit;
+	font-size: 16px;
+	padding: 10px;
+	margin-top: 20px;
+	width: 100%;
+}
+
+
+.appstore {
+	width: 100px;
+	margin: auto;
+}
+
+.main-footer h3  {
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+
+.class-row h3 {
+	font-size: 20px;
+}
+
+.icons {
+	font-size: 15px;
+}
+
+.class-row{
+	
+	min-height: 275px;
+	width: 220px;
+    height: 220px;
+    display: inline-block;
+    margin: 7.5px 10px 7.5px 10px;
+    color: #fff;
+    float: left;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #dadada;
+    cursor: pointer;
+}
+
+@media (min-width: 768px) {
+.class-row {
+	width: 187px;
+    height: 187px;
+    display: inline-block;
+    margin: 5px!important;
+    color: #fff;
+    float: left;
+    position: relative;
+    background-size: cover;
+
+	background-repeat: no-repeat;
+    background-position: center center;
+    padding: 0!important;
+}
+}
+
+@media (min-width: 820px) {
+	.class-row {
+		width: 240px;
+		height: 187px!important;
+		display: inline-block;
+		margin: 10px!important;
+		color: #fff;
+		float: left;
+		position: relative;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+	
+	}
+	}
+
+.trainers-section {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    height: auto;
+    overflow: hidden;
+    max-width: 1775px;
+    padding-top: 20px;
+	
+
+}
+
+.train {
+	margin-left: 3%;
+	margin-right: 1%;
+}
+
+.row-train {
+	align-items: center;
+}
+
+@media (min-width: 1080px) {
+	.train {
+		margin-left: 2%;
+		margin-right: 2%;
+	}
+
+	.class-row{
+		min-height: 275px;
+		width: 220px;
+		height: 220px;
+		display: inline-block;
+		margin: 7.5px 17px 7.5px 10px;
+		color: #fff;
+		float: left;
+		position: relative;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-color: #dadada;
+		cursor: pointer;
+	}
+}
+
+@media (max-width: 522) {
+	.class-row {
+		min-height: 400px;
+		width: 90% !important;
+		height: 220px;
+		display: inline-block;
+		margin: 7.5px 17px 7.5px 10px;
+		color: #fff;
+		float: left;
+		position: relative;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-color: #dadada;
+		cursor: pointer;
+	
+	}
+
+	.class-row img  {
+		width: 100%;
+	}
+
+	.trainers-section {
+		
+	}
+}
+
+

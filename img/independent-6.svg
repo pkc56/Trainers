@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="90" viewBox="0 0 88 90">
+    <defs>
+        <linearGradient id="a" x1="-277.432%" x2="221.598%" y1="238.458%" y2="-48.766%">
+            <stop offset="0%" stop-color="#8D8D9B"/>
+            <stop offset="26%" stop-color="#9495A3"/>
+            <stop offset="67%" stop-color="#A9ACB9"/>
+            <stop offset="100%" stop-color="#BDC3CE"/>
+        </linearGradient>
+        <linearGradient id="b" x1="-309.573%" x2="280.568%" y1="-123.187%" y2="161.047%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+            <stop offset="18%" stop-color="#FFF" stop-opacity=".23"/>
+            <stop offset="40%" stop-color="#FFF" stop-opacity=".5"/>
+            <stop offset="60%" stop-color="#FFF" stop-opacity=".72"/>
+            <stop offset="78%" stop-color="#FFF" stop-opacity=".87"/>
+            <stop offset="92%" stop-color="#FFF" stop-opacity=".97"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#a)" fill-rule="nonzero" d="M58.996 25.344H8.197L0 46.746l8.197 21.396L0 89.544h50.799l8.197-21.402L50.8 46.746z"/>
+        <path fill="url(#b)" fill-rule="nonzero" d="M58.996 25.344H8.197L0 46.746l8.197 21.396L0 89.544h50.799l8.197-21.402L50.8 46.746z"/>
+        <path stroke="#FFF" stroke-linejoin="round" stroke-width="1.205" d="M2.827 46.488h24.206M10.68 68.034h23.073"/>
+        <path fill="#FF9801" fill-rule="nonzero" d="M73.637 18.192a12.179 12.179 0 0 0-5.07 1.164 25.684 25.684 0 0 1-6.419 1.962l3.05-13.2A1.8 1.8 0 0 0 63.794 6a1.857 1.857 0 0 0-2.212 1.35l-1.808 7.914a15.246 15.246 0 0 0-2.375-7.398C52.975 1.338 42.957 0 42.957 0s-2.893 9.282 1.507 15.828a15.038 15.038 0 0 0 4.388 4.2 25.481 25.481 0 0 1-1.573-.648 12.179 12.179 0 0 0-5.087-1.188c-9.409 0-15.864 8.808-13.809 24.114 2.055 15.306 11.838 31.2 21.27 31.2 1.34.003 2.668-.258 3.906-.768a11.573 11.573 0 0 1 8.74 0c1.238.51 2.566.771 3.906.768 9.427 0 19.215-15.942 21.27-31.2 2.056-15.258-4.405-24.114-13.838-24.114z"/>
+        <path stroke="#FFF" stroke-linejoin="round" stroke-width="1.205" d="M47.46 4.2c2.41.924 5.05 2.4 6.503 4.56a10.466 10.466 0 0 1 1.58 5.094M70.58 23.718c4.823-2.22 9.476.912 11.206 5.454 1.88 4.92 1.41 10.62.361 15.666"/>
+    </g>
+</svg>
